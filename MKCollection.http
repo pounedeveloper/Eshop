@@ -1,0 +1,6 @@
+@MKCollection_HostAddress = http://localhost:5218
+
+GET {{MKCollection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
